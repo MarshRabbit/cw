@@ -3,4 +3,5 @@
 #python /root/streamlit-project/backend/app.py > /dev/null 2> /dev/null < /dev/null &
 systemctl restart streamlit
 systemctl restart backend
+
 exit 0
